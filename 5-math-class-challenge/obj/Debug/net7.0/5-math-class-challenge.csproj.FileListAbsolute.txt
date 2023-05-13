@@ -1,0 +1,15 @@
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.csproj.AssemblyReference.cache
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.AssemblyInfoInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.AssemblyInfo.cs
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.csproj.CoreCompileInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/bin/Debug/net7.0/5-math-class-challenge
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/bin/Debug/net7.0/5-math-class-challenge.deps.json
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/bin/Debug/net7.0/5-math-class-challenge.runtimeconfig.json
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/bin/Debug/net7.0/5-math-class-challenge.dll
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/bin/Debug/net7.0/5-math-class-challenge.pdb
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.dll
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/refint/5-math-class-challenge.dll
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.pdb
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/5-math-class-challenge.genruntimeconfig.cache
+/Users/worf/Desktop/dev/CsharpProjects/5-math-class-challenge/obj/Debug/net7.0/ref/5-math-class-challenge.dll
