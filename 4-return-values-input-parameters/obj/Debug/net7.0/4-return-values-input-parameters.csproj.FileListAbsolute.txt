@@ -1,0 +1,15 @@
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/bin/Debug/net7.0/4-return-values-input-parameters
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/bin/Debug/net7.0/4-return-values-input-parameters.deps.json
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/bin/Debug/net7.0/4-return-values-input-parameters.runtimeconfig.json
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/bin/Debug/net7.0/4-return-values-input-parameters.dll
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/bin/Debug/net7.0/4-return-values-input-parameters.pdb
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.csproj.AssemblyReference.cache
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.AssemblyInfoInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.AssemblyInfo.cs
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.csproj.CoreCompileInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.dll
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/refint/4-return-values-input-parameters.dll
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.pdb
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/4-return-values-input-parameters.genruntimeconfig.cache
+/Users/worf/Desktop/dev/CsharpProjects/4-return-values-input-parameters/obj/Debug/net7.0/ref/4-return-values-input-parameters.dll
