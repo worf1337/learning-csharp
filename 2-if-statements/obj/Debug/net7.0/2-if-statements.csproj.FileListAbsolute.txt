@@ -1,0 +1,15 @@
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/bin/Debug/net7.0/2-if-statements
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/bin/Debug/net7.0/2-if-statements.deps.json
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/bin/Debug/net7.0/2-if-statements.runtimeconfig.json
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/bin/Debug/net7.0/2-if-statements.dll
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/bin/Debug/net7.0/2-if-statements.pdb
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.csproj.AssemblyReference.cache
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.AssemblyInfoInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.AssemblyInfo.cs
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.csproj.CoreCompileInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.dll
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/refint/2-if-statements.dll
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.pdb
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/2-if-statements.genruntimeconfig.cache
+/Users/worf/Desktop/dev/CsharpProjects/2-if-statements/obj/Debug/net7.0/ref/2-if-statements.dll
