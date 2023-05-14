@@ -1,0 +1,15 @@
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/bin/Debug/net7.0/challenge-activity
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/bin/Debug/net7.0/challenge-activity.deps.json
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/bin/Debug/net7.0/challenge-activity.runtimeconfig.json
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/bin/Debug/net7.0/challenge-activity.dll
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/bin/Debug/net7.0/challenge-activity.pdb
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.csproj.AssemblyReference.cache
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.AssemblyInfoInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.AssemblyInfo.cs
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.csproj.CoreCompileInputs.cache
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.dll
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/refint/challenge-activity.dll
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.pdb
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/challenge-activity.genruntimeconfig.cache
+/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/Debug/net7.0/ref/challenge-activity.dll

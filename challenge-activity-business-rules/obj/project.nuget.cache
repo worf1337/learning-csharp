@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kL+smFI8Yizmhnxan9xFgpefvU0QFdVarlk1O+EIq3edGNiGi1UaiJ4X9JG+pnafA5Ax5HjVEDiEOtuL2fHndw==",
+  "dgSpecHash": "+R3wSVN3gKnggCnatms+6+RbWgEudfB6TsOJv/s9hrdxdqJQ4tCzhPqibbxQGUmuOhY+JfPR/gycj4N1Ni+WaQ==",
   "success": true,
-  "projectFilePath": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity/challenge-activity.csproj",
+  "projectFilePath": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/challenge-activity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

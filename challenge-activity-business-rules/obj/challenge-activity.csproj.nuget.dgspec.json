@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity/challenge-activity.csproj": {}
+    "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/challenge-activity.csproj": {}
   },
   "projects": {
-    "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity/challenge-activity.csproj": {
+    "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/challenge-activity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity/challenge-activity.csproj",
+        "projectUniqueName": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/challenge-activity.csproj",
         "projectName": "challenge-activity",
-        "projectPath": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity/challenge-activity.csproj",
+        "projectPath": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/challenge-activity.csproj",
         "packagesPath": "/Users/worf/.nuget/packages/",
-        "outputPath": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity/obj/",
+        "outputPath": "/Users/worf/Desktop/dev/CsharpProjects/challenge-activity-business-rules/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/worf/.nuget/NuGet/NuGet.Config"
